@@ -4,5 +4,6 @@ public class HelloWorld {
         System.out.println("How're you?");
         System.out.println("What's up?");
         System.out.println("I love you honey");
+        System.out.println("Uyumak ister misin honey, sanki biraz uykulusun");
     }
 }
